@@ -1,3 +1,3 @@
 # Calculator with JavaScript
 
-![alt text]( https://github.com/jhony2488/CURRICULUM-VIRTUAL-JHONATA/blob/master/Jhonata-Vinicius-Google-Chrome-2020-02-04-11-52-45.gif "Video demonstrativo")
+![alt text]( https://github.com/jhony2488/Calculator-with-JavaScript/blob/master/Calculadora-Google-Chrome-2020-02-14-12-33-56.gif "Video demonstrativo")
